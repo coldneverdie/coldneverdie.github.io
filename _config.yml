@@ -3,11 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-<<<<<<< HEAD
 title: OpenBlas
-=======
-title: blog of dongqi
->>>>>>> 1bbf49473aafb22ddf2241ec060c7830b28cfa81
 subtitle:
 description:
 author: dongqi
@@ -72,8 +68,4 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-<<<<<<< HEAD
   type:
-=======
-  type: git
->>>>>>> 1bbf49473aafb22ddf2241ec060c7830b28cfa81
