@@ -143,8 +143,8 @@ body {
 .inner {
   display: inline;
   float: left;
-  width: 98.3333333333333%;
-  margin: 0 0.8333333333333%;
+  width: 98.33333333333333%;
+  margin: 0 0.833333333333333%;
 }
 .left,
 .alignleft {
@@ -183,8 +183,8 @@ body {
   #main {
     display: inline;
     float: left;
-    width: 73.3333333333333%;
-    margin: 0 0.8333333333333%;
+    width: 73.33333333333333%;
+    margin: 0 0.833333333333333%;
   }
 }
 .article-date,
@@ -1167,9 +1167,6 @@ a.article-title:hover {
 .article-entry .highlight .line {
   height: 22.400000000000002px;
 }
-.article-entry .highlight .line.marked {
-  background: #515151;
-}
 .article-entry .gist {
   margin: 0 -20px;
   border-style: solid;
@@ -1299,8 +1296,8 @@ pre .javascript .function {
   #sidebar {
     display: inline;
     float: left;
-    width: 23.3333333333333%;
-    margin: 0 0.8333333333333%;
+    width: 23.333333333333332%;
+    margin: 0 0.833333333333333%;
   }
 }
 .widget-wrap {
